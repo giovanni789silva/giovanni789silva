@@ -1,16 +1,14 @@
-## Hi there 👋
+import desenvolvedor as dev
 
-<!--
-**giovanni789silva/giovanni789silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+print("🎉 Bem-vindo ao meu Repositório Python! 🎉")
 
-Here are some ideas to get you started:
+nome = "Giovanni Teixeira e Silva
+area = "Desenvolvedor Back-end"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+print("class/skills 😎")
+
+linguagem_principal = "Python3"
+bibliotecas = ("pandas, pyautogui")
+
+
+print("Obrigado por visitar o meu repositório! 🙂\n")
