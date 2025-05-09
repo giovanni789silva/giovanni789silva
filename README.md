@@ -1,4 +1,4 @@
-## Olá! Eu sou Giovanni Teixeira, desenvolvedor full-stack!
+## Olá! Eu sou Giovanni Teixeira, desenvolvedor back-end!
 
 - 🔭 Hoje trabalho em projetos pessoais e acadêmicos
 - 🌱 Estou estudando Python
