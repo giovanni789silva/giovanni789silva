@@ -1,4 +1,4 @@
-## Olá! Me chamo Giovanni
+## Olá! Eu sou Giovanni Teixeira, desenvolvedor back-end!
 
 - 🔭 Hoje trabalho em projetos pessoais e acadêmicos
 - 🌱 Estou estudando Python
@@ -7,10 +7,10 @@
 
 <div>
   <a href="https://github.com/giovanni789silva/github-readme-stats)>"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanni789silva&show_icons=true&theme=github_dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanni789silva&show_icons=true&theme=github_dark"/>
 
   <a href="https://github.com/giovanni789silva/convoychat"><a/>
-  <img align="center" height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanni789silva&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
+  <img align="center" height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanni789silva&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
 </div>
 
 ##
