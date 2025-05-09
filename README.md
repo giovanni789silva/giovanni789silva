@@ -7,15 +7,15 @@
 
 <div>
   <a href="https://github.com/giovanni789silva/github-readme-stats)>"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanni789silva&show_icons=true&theme=github_dark"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=giovanni789silva&show_icons=true&theme=github_dark"/>
 
   <a href="https://github.com/giovanni789silva/convoychat"><a/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanni789silva&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
+  <img align="center" height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanni789silva&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
 </div>
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="giovanni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="giovanni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="giovanni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
