@@ -19,7 +19,7 @@
   <img align="center" height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanni789silva&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
 </div>
 
-##  Tecnologias eu utilizo:
+##  Tecnologias que eu utilizo:
 
 <div style="display: inline_block">
   <img align="center" alt="giovanni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
