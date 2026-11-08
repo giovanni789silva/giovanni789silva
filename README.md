@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-Sou formado como Técnico em Desenvolvimento de Sistemas pelo **SENAI** e atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco aprimorar meus conhecimentos na **área de Dados**, explorando novas ferramentas e desenvolvendo soluções práticas.
+Sou formado como Técnico em Desenvolvimento de Sistemas pelo **SENAI** e atualmente curso Análise e Desenvolvimento de Sistemas. Busco aprimorar meus conhecimentos na **área de Dados**, explorando novas linguagens, ferramentas e desenvolvendo soluções práticas.
 
 ---
 
