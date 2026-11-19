@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Linguagens que utilizo</h2>
+<h2 data-importer="text" align="left">Tecnologias que utilizo</h2>
 
 ###
 
