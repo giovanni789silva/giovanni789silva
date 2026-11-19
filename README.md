@@ -30,3 +30,9 @@ Sou formado como Técnico em Desenvolvimento de Sistemas pelo **SENAI** e atualm
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
+
+<!-- <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovanni789silva/giovanni789silva/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovanni789silva/giovanni789silva/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giovanni789silva/giovanni789silva/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture> -->
