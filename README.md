@@ -4,11 +4,21 @@
 
 ###
 
-<h1 data-importer="text" align="center">🛠️ Linguagens e Tecnologias</h1>
+<h1 data-importer="text" align="left">Sobre mim</h1>
 
 ###
 
-<div data-importer="techs" align="center">
+<p data-importer="text" align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, formado como Técnico em Desenvolvimento de Sistemas pelo SENAI. Busco aprimorar meus conhecimentos em dados e me desenvolver profissionalmente.<br><br>💻 Desenvolvendo projetos pessoais e acadêmicos<br>📊 Dados: Explorando análise e manipulação de dados com Pandas, SQL e ferramentas de BI</p>
+
+
+
+###
+
+<h2 data-importer="text" align="left">Linguagens que utilizo</h2>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
