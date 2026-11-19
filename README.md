@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Sobre mim</h1>
+<h1 data-importer="text" align="left">🧑‍💻 Sobre mim</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tecnologias que utilizo</h2>
+<h2 data-importer="text" align="left">💻 Tecnologias que utilizo</h2>
 
 ###
 
