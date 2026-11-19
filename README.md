@@ -11,18 +11,18 @@
 <p data-importer="text" align="left">
   Sou estudante de Análise e Desenvolvimento de Sistemas, formado como Técnico em Desenvolvimento de Sistemas pelo SENAI. Busco aprimorar meus conhecimentos em dados e me desenvolver profissionalmente.
   
-  <br><br>
+  <br>
   
   💻 Desenvolvendo projetos pessoais e acadêmicos <br>
   📊 Dados: Explorando análise e manipulação de dados com Pandas, SQL e ferramentas de BI
 
 </p>
 
+---
+
 ###
 
 <h2 data-importer="text" align="left">💻 Tecnologias que utilizo</h2>
-
-###
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
