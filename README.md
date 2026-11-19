@@ -1,10 +1,6 @@
-# 👋 Olá! Eu sou Giovanni Teixeira!
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 **Desenvolvedor Back-End | Python | SQL**
-🚀 Desenvolvendo projetos pessoais e acadêmicos
-
----
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Giovanni%20Teixeira!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&desc=Desenvolvedor%20Back-End%20%7C%20Python%20%7C%20SQL&descSize=15&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
 
 ### 🚀 Sobre mim
 
@@ -12,7 +8,8 @@ Sou formado como Técnico em Desenvolvimento de Sistemas pelo **SENAI** e atualm
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+
+<h1 data-importer="text" align="left">🛠️ Linguagens e Tecnologias</h1>
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
