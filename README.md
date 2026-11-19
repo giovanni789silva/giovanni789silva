@@ -8,9 +8,15 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, formado como Técnico em Desenvolvimento de Sistemas pelo SENAI. Busco aprimorar meus conhecimentos em dados e me desenvolver profissionalmente.<br><br>💻 Desenvolvendo projetos pessoais e acadêmicos<br>📊 Dados: Explorando análise e manipulação de dados com Pandas, SQL e ferramentas de BI</p>
+<p data-importer="text" align="left">
+  Sou estudante de Análise e Desenvolvimento de Sistemas, formado como Técnico em Desenvolvimento de Sistemas pelo SENAI. Busco aprimorar meus conhecimentos em dados e me desenvolver profissionalmente.
+  
+  <br><br>
+  
+  💻 Desenvolvendo projetos pessoais e acadêmicos <br>
+  📊 Dados: Explorando análise e manipulação de dados com Pandas, SQL e ferramentas de BI
 
-
+</p>
 
 ###
 
